@@ -1,0 +1,22 @@
+.wu h1{
+
+ font-size: 30px;
+ text-align: center;
+ line-height: 80px;
+}
+.wu h2{
+    font-size: 40px;
+ text-align: center;
+ line-height: 80px;
+    
+}
+.wu h3{
+    font-size: 30px;
+    text-align: center;
+    line-height: 80px;
+}
+.wu {
+    font-family: serif;
+    color: chartreuse;
+    font-size: 30px;
+}
