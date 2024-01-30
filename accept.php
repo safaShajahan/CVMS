@@ -2,6 +2,7 @@
 session_start();
 error_reporting(0);
 include('includes/dbconnection.php');
+// safa
  if(!isset($_SESSION['username'])){
   header('location:logout1.php'); 
   } else{
